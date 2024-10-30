@@ -1,8 +1,6 @@
 # PriorityQueueAdmissionportalsystem
 A priority-based admission system that manages applicants using a queue, sorted by percentile. It supports adding, removing, and displaying applicants, along with automatic branch allocation based on performance.
 Here’s the **README.md** description without any bold formatting for the titles:
-
---- 
 A simple admission management system that organizes applicants based on their percentile and assigns branches accordingly.
 
 # Features
@@ -17,23 +15,6 @@ A simple admission management system that organizes applicants based on their pe
 - 89 - 93%: Electronics  
 - 85 - 89%: Mechanical  
 - Below 85%: Not eligible for admission  
-
-# Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/ApplicantManager.git
-   cd ApplicantManager
-   ```
-
-2. Compile the code:
-   ```bash
-   g++ main.cpp -o applicationQueue
-   ```
-
-3. Run the application:
-   ```bash
-   ./applicationQueue
-   ```
 
 # Technologies Used
 - C++
