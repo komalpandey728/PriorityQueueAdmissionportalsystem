@@ -1,6 +1,5 @@
 # PriorityQueueAdmissionportalsystem
 A priority-based admission system that manages applicants using a queue, sorted by percentile. It supports adding, removing, and displaying applicants, along with automatic branch allocation based on performance.
-Here’s the **README.md** description without any bold formatting for the titles:
 A simple admission management system that organizes applicants based on their percentile and assigns branches accordingly.
 
 # Features
@@ -23,5 +22,3 @@ A simple admission management system that organizes applicants based on their pe
 You can help by making suggestions or improvements!
 
 ---
-
-Let me know if you need any further adjustments!
